@@ -50,4 +50,4 @@ Since GitHub does not provide a direct public API for "trending" repositories, t
 
 ## Project URL
 
-[https://github.com/deepmonapara9/github-trending-cli](https://github.com/deepmonapara9/github-trending-cli)
+[https://roadmap.sh/projects/github-trending-cli](https://roadmap.sh/projects/github-trending-cli)
